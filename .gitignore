@@ -1,0 +1,6 @@
+.env
+app/go.mod
+app/go.sum
+go.mod
+go.sum
+.DS_Store
